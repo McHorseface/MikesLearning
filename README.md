@@ -58,6 +58,7 @@
 ### Pentesting / Cybersecurity 🔐
 - [ ] awesome-cyber-security-university — follow the beginner path in order
 - [ ] HackTricks — read the methodology section before each HTB box
+- [ ] h4cker — read the ethical hacking and recon chapters
 - [ ] Complete 5 HTB Easy Linux boxes
 - [ ] Complete 5 HTB Easy Windows boxes
 - [ ] awesome-ctf — pick one CTF category (web, crypto, forensics) and do 3 challenges
@@ -129,12 +130,13 @@
 |---|---|---|
 | [awesome-cyber-security-university](https://github.com/McHorseface/awesome-cyber-security-university) | Structured beginner → intermediate path: maps free courses, rooms, and boxes in order — follow the beginner tier first | Start here |
 | [HackTricks](https://github.com/McHorseface/hacktricks) | The pentesting methodology bible — covers every attack category with commands. Read the relevant section *before* each HTB box, not after | Before each box |
+| [h4cker](https://github.com/McHorseface/h4cker) | Omar Santos' massive ethical hacking repo — recon, exploit dev, DFIR, AI security, bug bounty, reverse engineering. Thousands of resources, well organized. Great for going deeper on any specific topic after you encounter it on HTB | Deep dives |
 | [HackTheBox Academy](https://academy.hackthebox.com) | Structured learning paths — do "Introduction to Networking", "Linux Fundamentals", and "Web Requests" if you haven't | Foundational |
 | [awesome-ctf](https://github.com/McHorseface/awesome-ctf) | Tools, writeups, and resources by CTF category: web, crypto, forensics, reversing, pwn | When doing CTFs |
 | [GTFOBins](https://gtfobins.github.io) | Unix binaries you can exploit for privilege escalation — bookmark this, you'll use it on almost every Linux box | Reference |
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Payload lists and bypass techniques for web vulns — SQLi, XSS, SSRF, LFI | Web box reference |
 
-> **Where you are now:** Easy HTB boxes follow a pattern — enumerate with `nmap`, find a service with a known vuln or misconfiguration, exploit it, then privesc. The biggest skill gap at Easy level is usually enumeration (not looking hard enough) and not knowing what to do with what you find. HackTricks is the answer to "I found X, now what?" Read it like a cookbook.
+> **Where you are now:** Easy HTB boxes follow a pattern — enumerate with `nmap`, find a service with a known vuln or misconfiguration, exploit it, then privesc. The biggest skill gap at Easy level is usually enumeration (not looking hard enough) and not knowing what to do with what you find. HackTricks is the answer to "I found X, now what?" h4cker is where you go when you want to understand *why* it works.
 
 ---
 
@@ -212,6 +214,7 @@
 | Resource | What it covers |
 |---|---|
 | [HackTricks](https://github.com/McHorseface/hacktricks) | Methodology and commands for every attack surface — the reference you open mid-box |
+| [h4cker](https://github.com/McHorseface/h4cker) | Deep-dive reference: recon, exploit dev, DFIR, AI security, vulnerability research, reverse engineering |
 | [awesome-ctf](https://github.com/McHorseface/awesome-ctf) | CTF tools and resources by category |
 | [awesome-cyber-security-university](https://github.com/McHorseface/awesome-cyber-security-university) | Structured free learning path from beginner to intermediate |
 
@@ -247,6 +250,7 @@
 | [og-aws](https://github.com/McHorseface/og-aws) | Practical AWS reference — services, costs, gotchas, best practices |
 | [Mathematics-for-ML](https://github.com/McHorseface/Mathematics-for-ML) | Math as used in ML — linear algebra, calculus, probability with notebooks |
 | [HackTricks](https://github.com/McHorseface/hacktricks) | "I found X on an HTB box, now what?" — commands and methodology for every attack type |
+| [h4cker](https://github.com/McHorseface/h4cker) | Deep reference for any specific security topic — recon, DFIR, exploit dev, reverse engineering |
 | [GTFOBins](https://gtfobins.github.io) | Privilege escalation via Unix binaries — essential for HTB Linux boxes |
 | [MIT OpenCourseWare — Mathematics](https://ocw.mit.edu/search/?d=Mathematics) | Full MIT course materials — syllabi, problem sets, exams, lecture notes, free |
 | [Wolfram Alpha](https://www.wolframalpha.com) | Step-by-step solver for any math topic |
@@ -291,6 +295,7 @@
 - [Tutorials Dojo SAP-C02 Practice Exams](https://tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/) — The best exam bank; use after Cantrill to find your gaps
 - [TalkingBass — Chord Tones](https://www.talkingbass.net/chord-tones-the-most-important-bass-lesson-youll-ever-have/) — If you only read one bass theory article, make it this one
 - [HackTricks Book](https://book.hacktricks.xyz) — The web version of HackTricks; easiest to search mid-box
+- [h4cker](https://github.com/McHorseface/h4cker) — Omar Santos' ethical hacking repo; thousands of resources across every security domain. After HackTricks tells you *what* to do, h4cker tells you *why* it works
 
 ---
 
