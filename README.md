@@ -48,6 +48,20 @@
 - [ ] *The Oxford History of the British Empire, Vol. I* — Canny
 - [ ] *Emigrants and Exiles* — Kerby Miller
 
+### Bass Guitar & Music Theory 🎸
+- [ ] study-music — work through the harmony and chord function chapters
+- [ ] *The Practical Guide to Modern Music Theory for Guitarists* — read alongside playing
+- [ ] musictheory.net — complete intervals, chords, and scales modules
+- [ ] *Zen of Bass* — watch the role-of-bass episodes
+- [ ] Apply one concept per practice session: play over a 12-bar blues, then a ii–V–I
+
+### Pentesting / Cybersecurity 🔐
+- [ ] awesome-cyber-security-university — follow the beginner path in order
+- [ ] HackTricks — read the methodology section before each HTB box
+- [ ] Complete 5 HTB Easy Linux boxes
+- [ ] Complete 5 HTB Easy Windows boxes
+- [ ] awesome-ctf — pick one CTF category (web, crypto, forensics) and do 3 challenges
+
 ---
 
 ## 🎯 Do — step-by-step projects & courses
@@ -80,7 +94,7 @@
 | Resource | What you do | When |
 |---|---|---|
 | [PSKoans](https://github.com/McHorseface/PSKoans) | Learn PowerShell by fixing failing Pester tests — hands-on, progressive, addictive | Start here |
-| [fleschutz/PowerShell](https://github.com/McHorseface/PowerShell) | 500+ real-world PowerShell scripts covering automation, admin, and utilities | After PSKoans |
+| [PowerShell](https://github.com/McHorseface/PowerShell) | 500+ real-world PowerShell scripts covering automation, admin, and utilities | After PSKoans |
 
 ### AWS / Cloud
 | Resource | What you do | When |
@@ -99,6 +113,29 @@
 | [NRK Super](https://www.nrk.no/super/) | Norwegian public kids' TV — best free immersion listening at beginner level | Weekly |
 | [Norsk for Free](https://www.norskforfree.com) | Free grammar explanations and exercises written for English speakers | Reference |
 
+### Bass Guitar & Music Theory 🎸
+| Resource | What you do | When |
+|---|---|---|
+| [study-music](https://github.com/McHorseface/study-music) | The "awesome music theory" wiki — covers harmony, chord function, rhythm, and how it all connects. Read the harmony and bass chapters first | Start here |
+| [musictheory.net](https://www.musictheory.net/lessons) | Free interactive lessons: intervals, chord construction, scale degrees, rhythm — do the lessons, not just the exercises | Fill gaps |
+| [Teoria](https://www.teoria.com) | Ear training + theory exercises — intervals, chord ID, rhythm reading | Ear training |
+| [TalkingBass](https://www.talkingbass.net) | Mark Smith's free bass-specific theory lessons — chord tones, arpeggios, walking bass, playing over changes | Bass-specific |
+| [Zen of Bass (YouTube)](https://www.youtube.com/@ZenOfBass) | Why bass does what it does rhythmically and harmonically — role of the bass, locking with the drummer | Concepts |
+
+> **What you actually need:** You can already play and read. The gap is *harmonic function* — understanding that a chord chart tells you which notes are *home*, which are *tension*, and which create *movement*. A bassist's job is to define the root and connect chord changes. Once you understand I–IV–V and ii–V–I in any key, you can walk any chart. Start with TalkingBass "chord tones" series and study-music's harmony chapter.
+
+### Pentesting / Cybersecurity 🔐
+| Resource | What you do | When |
+|---|---|---|
+| [awesome-cyber-security-university](https://github.com/McHorseface/awesome-cyber-security-university) | Structured beginner → intermediate path: maps free courses, rooms, and boxes in order — follow the beginner tier first | Start here |
+| [HackTricks](https://github.com/McHorseface/hacktricks) | The pentesting methodology bible — covers every attack category with commands. Read the relevant section *before* each HTB box, not after | Before each box |
+| [HackTheBox Academy](https://academy.hackthebox.com) | Structured learning paths — do "Introduction to Networking", "Linux Fundamentals", and "Web Requests" if you haven't | Foundational |
+| [awesome-ctf](https://github.com/McHorseface/awesome-ctf) | Tools, writeups, and resources by CTF category: web, crypto, forensics, reversing, pwn | When doing CTFs |
+| [GTFOBins](https://gtfobins.github.io) | Unix binaries you can exploit for privilege escalation — bookmark this, you'll use it on almost every Linux box | Reference |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Payload lists and bypass techniques for web vulns — SQLi, XSS, SSRF, LFI | Web box reference |
+
+> **Where you are now:** Easy HTB boxes follow a pattern — enumerate with `nmap`, find a service with a known vuln or misconfiguration, exploit it, then privesc. The biggest skill gap at Easy level is usually enumeration (not looking hard enough) and not knowing what to do with what you find. HackTricks is the answer to "I found X, now what?" Read it like a cookbook.
+
 ---
 
 ## 📖 Read — guides, textbooks & references
@@ -109,8 +146,8 @@
 | Resource | What it covers |
 |---|---|
 | [awesome-math](https://github.com/McHorseface/awesome-math) | Curated list of free math resources organized by topic: calculus, linear algebra, diff eq, real analysis, and beyond |
-| [Mathematics-For-ML](https://github.com/McHorseface/Mathematics-For-ML) | Linear algebra, calculus, and probability as used in ML — bridges pure math to data science |
-| [ossu/math](https://github.com/McHorseface/math) | Full self-taught math degree curriculum — the complete roadmap from precalc through real analysis |
+| [Mathematics-for-ML](https://github.com/McHorseface/Mathematics-for-ML) | Linear algebra, calculus, and probability as used in ML — bridges pure math to data science |
+| [math](https://github.com/McHorseface/math) | Full self-taught math degree curriculum — the complete roadmap from precalc through real analysis |
 | [Wolfram Alpha](https://www.wolframalpha.com) | Step-by-step equation solving, integration, differentiation, matrix operations — use to check your work |
 | [Symbolab](https://www.symbolab.com) | Step-by-step solutions for calculus and algebra — especially good for showing derivative and integral work |
 | [Desmos](https://www.desmos.com/calculator) | Interactive graphing calculator — visualize functions, parametric equations, and transformations instantly |
@@ -163,6 +200,21 @@
 
 > **On the history thread:** Read this as *one story*, not three. Cahill (early Ireland) → Kenny (colonization) → Kerby Miller (Atlantic crossing) reads almost like a trilogy. The Oxford History fills in the English imperial context. CELT is where you go when you want primary sources — actual annals, chronicles, and texts from medieval Ireland.
 
+### Bass Guitar & Music Theory 🎸
+| Resource | What it covers |
+|---|---|
+| [study-music](https://github.com/McHorseface/study-music) | Comprehensive music theory wiki — harmony, chord function, voice leading, rhythm, ear training resources |
+| *The Advancing Guitarist* — Mick Goodrick | Conceptual approach to harmony and the fretboard — applies directly to bass thinking |
+| *Building Walking Bass Lines* — Ed Friedland | The standard text for constructing bass lines over chord changes |
+| [TalkingBass — Chord Tones](https://www.talkingbass.net/chord-tones-the-most-important-bass-lesson-youll-ever-have/) | The single most important concept for a bassist reading a chord chart |
+
+### Pentesting / Cybersecurity 🔐
+| Resource | What it covers |
+|---|---|
+| [HackTricks](https://github.com/McHorseface/hacktricks) | Methodology and commands for every attack surface — the reference you open mid-box |
+| [awesome-ctf](https://github.com/McHorseface/awesome-ctf) | CTF tools and resources by category |
+| [awesome-cyber-security-university](https://github.com/McHorseface/awesome-cyber-security-university) | Structured free learning path from beginner to intermediate |
+
 ---
 
 ## 🗺️ Orient — roadmaps & big picture
@@ -171,11 +223,13 @@
 
 | Resource | What it shows |
 |---|---|
-| [ossu/math](https://github.com/McHorseface/math) | Full self-taught math degree — precalc through real analysis, mapped by course |
+| [math](https://github.com/McHorseface/math) | Full self-taught math degree — precalc through real analysis, mapped by course |
 | [awesome-math](https://github.com/McHorseface/awesome-math) | How all the math topics connect and what free resources exist for each |
 | [awesome-datascience](https://github.com/McHorseface/awesome-datascience) | The full DS landscape — where each tool fits and what to learn in what order |
 | [awesome-digital-humanities](https://github.com/McHorseface/awesome-digital-humanities) | Software and tools for humanities scholars — useful for the history track |
 | [awesome-digital-history](https://github.com/McHorseface/awesome-digital-history) | How to find primary sources online and do historical research digitally |
+| [awesome-cyber-security-university](https://github.com/McHorseface/awesome-cyber-security-university) | Beginner → intermediate pentesting roadmap, free resources in order |
+| [study-music](https://github.com/McHorseface/study-music) | How music theory topics connect — where to start and what leads to what |
 | [Prof. Leonard on YouTube](https://www.youtube.com/@ProfessorLeonard) | Best free math video lectures for Calc I–III and Diff Eq — slow, thorough, excellent |
 
 ---
@@ -191,12 +245,15 @@
 | [awesome-datascience](https://github.com/McHorseface/awesome-datascience) | Comprehensive DS resources — tools, datasets, courses, papers |
 | [awesome-math](https://github.com/McHorseface/awesome-math) | Free math resources by topic — find a good textbook or course for any area |
 | [og-aws](https://github.com/McHorseface/og-aws) | Practical AWS reference — services, costs, gotchas, best practices |
-| [Mathematics-For-ML](https://github.com/McHorseface/Mathematics-For-ML) | Math as used in ML — linear algebra, calculus, probability with notebooks |
+| [Mathematics-for-ML](https://github.com/McHorseface/Mathematics-for-ML) | Math as used in ML — linear algebra, calculus, probability with notebooks |
+| [HackTricks](https://github.com/McHorseface/hacktricks) | "I found X on an HTB box, now what?" — commands and methodology for every attack type |
+| [GTFOBins](https://gtfobins.github.io) | Privilege escalation via Unix binaries — essential for HTB Linux boxes |
 | [MIT OpenCourseWare — Mathematics](https://ocw.mit.edu/search/?d=Mathematics) | Full MIT course materials — syllabi, problem sets, exams, lecture notes, free |
 | [Wolfram Alpha](https://www.wolframalpha.com) | Step-by-step solver for any math topic |
 | [Symbolab](https://www.symbolab.com) | Step-by-step calculus and algebra solutions |
 | [Desmos](https://www.desmos.com/calculator) | Instant graphing for any function or equation |
 | [CELT](https://celt.ucc.ie) | Primary sources and annals from Irish history, free online |
+| [musictheory.net](https://www.musictheory.net/lessons) | Quick reference for any theory concept — intervals, chords, scales, rhythm |
 
 ---
 
@@ -207,14 +264,17 @@
 | Resource | What it does |
 |---|---|
 | [data-science-ipython-notebooks](https://github.com/McHorseface/data-science-ipython-notebooks) | Runnable Jupyter notebooks: NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow |
-| [TheAlgorithms/Python](https://github.com/McHorseface/Python) | Python algorithm implementations — run them, modify them, understand them |
-| [fleschutz/PowerShell](https://github.com/McHorseface/PowerShell) | 500+ ready-to-run PowerShell scripts for real admin and automation tasks |
+| [Python](https://github.com/McHorseface/Python) | Python algorithm implementations — run them, modify them, understand them |
+| [PowerShell](https://github.com/McHorseface/PowerShell) | 500+ ready-to-run PowerShell scripts for real admin and automation tasks |
 | [PSKoans](https://github.com/McHorseface/PSKoans) | PowerShell learning via failing Pester tests — install and run locally |
 | [devops-exercises](https://github.com/McHorseface/devops-exercises) | 2,600+ Q&A for AWS, Linux, Docker, Kubernetes — self-quiz tool |
+| [HackTheBox](https://www.hackthebox.com) | Your active HTB account — Easy boxes, then Medium |
+| [HackTheBox Academy](https://academy.hackthebox.com) | Structured modules — do before tackling a new box category |
 | [Desmos](https://www.desmos.com/calculator) | Graphing calculator — open in browser anytime you need to visualize math |
 | [Wolfram Alpha](https://www.wolframalpha.com) | Equation solver and step-by-step checker |
 | [Clozemaster](https://www.clozemaster.com/l/nob-eng) | Norwegian vocabulary in context — moves you past the Duolingo plateau |
-| [Duolingo Norwegian](https://www.duolingo.com) | Daily practice — pair with AI feedback (Claude/Perplexity) for natural conversation correction |
+| [Duolingo Norwegian](https://www.duolingo.com) | Daily practice — pair with AI feedback for natural conversation correction |
+| [Teoria](https://www.teoria.com) | Ear training and theory exercises — interval and chord ID |
 
 ---
 
@@ -229,6 +289,8 @@
 - [Ireland Story — annotated history reading list](https://www.wesleyjohnston.com/users/ireland/bookshop/pre_1600.htm) — organized by era, free online
 - [Adrian Cantrill — AWS SAP-C02](https://learn.cantrill.io) — Best paid AWS course; builds architect-level thinking, not just exam prep
 - [Tutorials Dojo SAP-C02 Practice Exams](https://tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/) — The best exam bank; use after Cantrill to find your gaps
+- [TalkingBass — Chord Tones](https://www.talkingbass.net/chord-tones-the-most-important-bass-lesson-youll-ever-have/) — If you only read one bass theory article, make it this one
+- [HackTricks Book](https://book.hacktricks.xyz) — The web version of HackTricks; easiest to search mid-box
 
 ---
 
