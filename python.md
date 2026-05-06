@@ -1,7 +1,8 @@
 # 🐍 Python
 
-> **Track goal:** Idiomatic, practical Python — from exercises to real projects
-> Write one function today that you couldn't have written yesterday.
+> Idiomatic Python, algorithms, real-world projects
+
+← [Back to README](./README.md)
 
 ---
 
@@ -13,53 +14,54 @@
 
 ---
 
-## 🎯 Do — Exercises & Projects
+## 📱 Apps & Interactive Tools
+
+| App | What it does | Cost |
+|---|---|---|
+| [Codecademy](https://www.codecademy.com/learn/learn-python-3) | In-browser Python with instant feedback — good for drilling syntax | Free tier |
+| [Sololearn](https://www.sololearn.com/en/learn/languages/python) | Gamified Python lessons on mobile — good for short daily reps | Free tier |
+| [DataCamp](https://www.datacamp.com) | Python courses with real in-app code execution; great for applied Python | Paid |
+| [Exercism](https://exercism.org/tracks/python) | Practice problems with mentor feedback — focuses on idiomatic, Pythonic code | Free |
+| [Codewars](https://www.codewars.com) | Algorithm challenges (katas) ranked by difficulty — addictive, good for sharpening problem-solving | Free |
+
+---
+
+## 🎯 Do — step-by-step courses
 
 | Resource | What you do | When |
 |---|---|---|
 | [learn-python](https://github.com/McHorseface/learn-python) | Structured Python exercises, idiomatic patterns | Anytime |
-| [TheAlgorithms/Python](https://github.com/McHorseface/Python) | Implement algorithms from scratch — great for leveling up | After basics |
-| [Real Python](https://realpython.com) | Tutorials and projects for practical Python — web scraping, file I/O, decorators, testing | Reference & projects |
+| [TheAlgorithms/Python](https://github.com/McHorseface/Python) | Implement algorithms from scratch | After basics |
+| [Real Python](https://realpython.com) | Tutorials and projects: web scraping, file I/O, decorators, testing | Reference & projects |
+| [Exercism — Python track](https://exercism.org/tracks/python) | 130+ exercises with community mentorship | After basics |
 
 ---
 
-## 📖 Read — Textbooks & References
+## 📖 Read — references & textbooks
 
 | Resource | What it covers |
 |---|---|
-| [awesome-python](https://github.com/McHorseface/awesome-python) | Every major Python library and framework, categorized — the canonical reference |
-| [Python Docs](https://docs.python.org/3/) | The official docs — the library reference and language reference sections are excellent |
-| [Real Python](https://realpython.com) | Deep-dive tutorials on practical Python: testing, async, decorators, packaging, web scraping |
-| *Fluent Python* — Luciano Ramalho (O'Reilly) | How Python actually works under the hood — iterators, generators, descriptors, metaprogramming. Read after you're comfortable with basics |
-| *Python Cookbook* — Beazley & Jones (O'Reilly) | Recipes for common problems — skip around, don't read linearly |
+| [awesome-python](https://github.com/McHorseface/awesome-python) | Every major Python library and framework, categorized |
+| [Python Docs](https://docs.python.org/3/) | Official docs — library reference and language reference |
+| [Real Python](https://realpython.com) | Deep-dive tutorials: testing, async, decorators, packaging |
+| *Fluent Python* — Luciano Ramalho | How Python works under the hood — iterators, generators, metaprogramming |
+| *Python Cookbook* — Beazley & Jones | Recipes for common problems — skip around, don't read linearly |
 
 ---
 
-## 🔍 Look Up — Quick Reference
+## 🔍 Look Up
 
 | Resource | What's in it |
 |---|---|
-| [awesome-python](https://github.com/McHorseface/awesome-python) | Every major Python library and framework, categorized |
-| [Python Docs](https://docs.python.org/3/) | Official language and library reference |
-| [Real Python](https://realpython.com) | Searchable practical tutorials |
+| [awesome-python](https://github.com/McHorseface/awesome-python) | Every major Python library and framework |
+| [Python Docs](https://docs.python.org/3/) | The canonical language and library reference |
 
 ---
 
-## 🛠️ Use — Active Tools
+## 🛠️ Use
 
 | Resource | What it does |
 |---|---|
-| [Python](https://github.com/McHorseface/Python) | Python algorithm implementations — run them, modify them, understand them |
-| [learn-python](https://github.com/McHorseface/learn-python) | Structured exercises |
-
----
-
-## 📰 Recommended Reading
-
-- [roadmap.sh — Python](https://roadmap.sh/python) — Python skill tree from beginner to advanced; useful for identifying gaps
-- [Real Python](https://realpython.com) — Deep-dive tutorials on practical Python
-- [Python Docs — Tutorial](https://docs.python.org/3/tutorial/) — The official tutorial; more readable than most people expect
-
----
-
-> **Cross-track note:** Python is the lingua franca for both the Data Science and Pentesting tracks. Time spent here multiplies across everything else.
+| [learn-python](https://github.com/McHorseface/learn-python) | Structured exercises with idiomatic patterns |
+| [TheAlgorithms/Python](https://github.com/McHorseface/Python) | Algorithm implementations to run, modify, and study |
+| [Codewars](https://www.codewars.com) | Daily kata practice — 5–15 min sessions |
