@@ -21,14 +21,23 @@
 
 | App | Best for | Level | Cost |
 |---|---|---|---|
-| [Duolingo](https://www.duolingo.com) | Daily habit, gamified streaks, pronunciation | A1 | Free |
-| [Babbel](https://www.babbel.com) | Conversational Norwegian with grammar focus; more structured than Duolingo | A1–A2 | ~$7/mo |
-| [Clozemaster](https://www.clozemaster.com/l/nob-eng) | Vocabulary in context — fills the gap when Duolingo stops being challenging | A2+ | Free tier |
-| [Memrise](https://www.memrise.com) | Community vocab decks, spaced repetition, native speaker video clips | A1–A2 | Free tier |
-| [Taalhammer](https://www.taalhammer.com) | Adaptive sentences + grammar; ranked fastest for fluency gains in a 2025 comparison of 11 apps | A1–B1 | Paid |
-| [Glossika](https://glossika.com) | Sentence-level audio drilling — best for listening comprehension and natural rhythm | A2–B1 | Paid |
-| [italki](https://www.italki.com) | Book Norwegian tutors for cheap conversation practice | Any | Per session |
-| [Anki](https://apps.ankiweb.net) | Build your own spaced-repetition decks from vocabulary you encounter | Any | Free |
+| [Duolingo](https://www.duolingo.com) | Daily habit, gamified streaks | A1 | Free |
+| [Babbel](https://www.babbel.com) | Conversational Norwegian with grammar focus | A1–A2 | ~$7/mo |
+| [Clozemaster](https://www.clozemaster.com/l/nob-eng) | Vocabulary in context post-Duolingo plateau | A2+ | Free tier |
+| [Memrise](https://www.memrise.com) | Community vocab decks, spaced repetition | A1–A2 | Free tier |
+| [Taalhammer](https://www.taalhammer.com) | Adaptive sentences + grammar; fastest fluency gains in 2025 comparison | A1–B1 | Paid |
+| [Glossika](https://glossika.com) | Sentence-level audio drilling for listening | A2–B1 | Paid |
+| [italki](https://www.italki.com) | Live tutor sessions for conversation practice | Any | Per session |
+| [Anki](https://apps.ankiweb.net) | Spaced-repetition decks from vocabulary you encounter | Any | Free |
+
+---
+
+## 🛠️ GitHub-Hosted Apps & Tools
+
+| App | What it does | Stack | Install / Run |
+|---|---|---|---|
+| [learn-norwegian](https://github.com/choukha/learn-norwegian) | Curated resource list with grammar games, A1–A2 course links, and vocabulary tools | Markdown | [Browse on GitHub](https://github.com/choukha/learn-norwegian) |
+| [Anki decks (Norwegian)](https://github.com/search?q=anki+norwegian+deck) | Community-built Norwegian Anki decks — download and import directly into Anki | Anki | Search GitHub, download `.apkg` file, import into Anki |
 
 > **Recommended stack:** Duolingo (daily) + LearnNoW (structured grammar) + Clozemaster (vocab, after A1) + NRK Super (listening). Add italki once you can hold a basic conversation.
 
@@ -38,11 +47,11 @@
 
 | Resource | What you do | When |
 |---|---|---|
-| [LearnNoW — NTNU](https://www.ntnu.edu/learnnow) | University-designed A1→A2 course with audio and interactive exercises | Alongside Duolingo |
+| [LearnNoW — NTNU](https://www.ntnu.edu/learnnow) | University-designed A1→A2 course | Alongside Duolingo |
 | [Duolingo Norwegian](https://www.duolingo.com) | Daily streak | Daily |
-| [Clozemaster](https://www.clozemaster.com/l/nob-eng) | Vocabulary in context — moves you past the Duolingo plateau | After A1 |
-| [italki](https://www.italki.com) | Book Norwegian tutors for cheap conversation practice | After A1 |
-| [NRK Super](https://www.nrk.no/super/) | Norwegian public kids' TV — best free immersion listening | Weekly |
+| [Clozemaster](https://www.clozemaster.com/l/nob-eng) | Vocabulary in context | After A1 |
+| [italki](https://www.italki.com) | Tutor sessions for conversation | After A1 |
+| [NRK Super](https://www.nrk.no/super/) | Norwegian kids’ TV — best free immersion listening | Weekly |
 
 ---
 
@@ -51,17 +60,16 @@
 | Resource | What it covers |
 |---|---|
 | [Norsk for Free](https://www.norskforfree.com) | Grammar explanations for English speakers |
-| [klartale.no](https://www.klartale.no) | Norwegian news in simple language — best daily reading at A2/B1 |
-| [ordbøkene.no](https://ordbokene.no) | Official Norwegian dictionary (Bokmål + Nynorsk) |
-| *Short Stories in Norwegian for Beginners* — Olly Richards | Graded reader for A1–B1; dual-language format |
-| *Norwegian: An Essential Grammar* — Strandskogen | Reference grammar — look things up, don't read cover to cover |
-| *Ny i Norge* (textbook) | Standard classroom text used in Norwegian integration courses |
+| [klartale.no](https://www.klartale.no) | Norwegian news in simple language — best A2/B1 reading |
+| [ordbøkene.no](https://ordbokene.no) | Official Norwegian dictionary |
+| *Short Stories in Norwegian for Beginners* — Olly Richards | Graded reader A1–B1 |
+| *Norwegian: An Essential Grammar* — Strandskogen | Reference grammar |
 
 ---
 
 ## 🔍 Look Up
 
-| Resource | What's in it |
+| Resource | What’s in it |
 |---|---|
 | [ordbøkene.no](https://ordbokene.no) | Official Norwegian dictionary |
 | [Norsk for Free](https://www.norskforfree.com) | Quick grammar reference |
@@ -73,6 +81,6 @@
 
 | Resource | What it does |
 |---|---|
-| [Duolingo](https://www.duolingo.com) | Daily practice — keep the streak |
-| [Clozemaster](https://www.clozemaster.com/l/nob-eng) | Vocabulary drilling in context |
-| [NRK Super](https://www.nrk.no/super/) | Free Norwegian kids' TV for listening immersion |
+| [Duolingo](https://www.duolingo.com) | Daily practice |
+| [Clozemaster](https://www.clozemaster.com/l/nob-eng) | Vocabulary drilling |
+| [NRK Super](https://www.nrk.no/super/) | Free Norwegian kids’ TV |
